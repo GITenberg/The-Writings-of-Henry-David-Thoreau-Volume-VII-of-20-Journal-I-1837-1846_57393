@@ -1,0 +1,32 @@
+_repo: The-Writings-of-Henry-David-Thoreau-Volume-VII-of-20-Journal-I-1837-1846_57393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+  editor:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+description: ''
+gutenberg_issued: '2018-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Writings of Henry David Thoreau, Volume VII (of 20)
+
+  Journal I, 1837-1846'
+url: http://www.gutenberg.org/ebooks/57393
